@@ -34,7 +34,7 @@ namespace Unity.LEGO.Minifig
             public float rotationSpeedMultiplier;
             public Vector3? turnToWhileCompleting;
         }
-
+        
         class FollowTarget
         {
             public Transform target;

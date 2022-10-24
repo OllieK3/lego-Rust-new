@@ -1,0 +1,575 @@
+# www.mecabricks.com
+newmtl MB_23_official_6166
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/3818d827.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_106_official_6166
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.20507873637973145 0.01680737574872402
+map_Kd textures/1/official/decoration/3818d827.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_6166
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/3818d827.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_26
+Ka 1.0 1.0 1.0
+Kd 0.005181516700061659 0.005181516700061659 0.005181516700061659
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23_official_1640
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/3814d324.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_1640
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/3814d324.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23_official_12329
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/20926d514.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_12329
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/20926d514.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23_official_12327
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/20932d514.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_106_official_12327
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.20507873637973145 0.01680737574872402
+map_Kd textures/1/official/decoration/20932d514.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_12327
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/20932d514.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23_official_12318
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/3815d512.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_26_official_12318
+Ka 1.0 1.0 1.0
+Kd 0.005181516700061659 0.005181516700061659 0.005181516700061659
+map_Kd textures/1/official/decoration/3815d512.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_12318
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/3815d512.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_105_official_16
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.23839757380151394 0.01764195448412081
+map_Kd textures/2/official/color/3814d1459.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_1882
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/3815d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_26_official_1882
+Ka 1.0 1.0 1.0
+Kd 0.005181516700061659 0.005181516700061659 0.005181516700061659
+map_Kd textures/1/official/decoration/3815d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_1883
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/3816d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_26_official_1883
+Ka 1.0 1.0 1.0
+Kd 0.005181516700061659 0.005181516700061659 0.005181516700061659
+map_Kd textures/1/official/decoration/3816d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_1884
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/3817d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_26_official_1884
+Ka 1.0 1.0 1.0
+Kd 0.005181516700061659 0.005181516700061659 0.005181516700061659
+map_Kd textures/1/official/decoration/3817d108.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_140
+Ka 1.0 1.0 1.0
+Kd 0.0030352698352941175 0.01764195448412081 0.05286064701616472
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_9146
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/2/official/color/3814d1951.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_316
+Ka 1.0 1.0 1.0
+Kd 0.04817182422013895 0.04518620437910499 0.04091519690055698
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_316_official_5561
+Ka 1.0 1.0 1.0
+Kd 0.04817182422013895 0.04518620437910499 0.04091519690055698
+map_Kd textures/2/official/color/3816d692.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_5561
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/2/official/color/3816d692.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_316_official_5562
+Ka 1.0 1.0 1.0
+Kd 0.04817182422013895 0.04518620437910499 0.04091519690055698
+map_Kd textures/2/official/color/3817d692.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_5562
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/2/official/color/3817d692.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_216
+Ka 1.0 1.0 1.0
+Kd 0.46207699964472876 0.025186859622305935 0.014443843592229466
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_5
+Ka 1.0 1.0 1.0
+Kd 0.6653872982754769 0.5028864580233624 0.20155625378383743
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_106
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.20507873637973145 0.01680737574872402
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_216_official_6418
+Ka 1.0 1.0 1.0
+Kd 0.46207699964472876 0.025186859622305935 0.014443843592229466
+map_Kd textures/2/official/color/3814d1710.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_140_official_825
+Ka 1.0 1.0 1.0
+Kd 0.0030352698352941175 0.01764195448412081 0.05286064701616472
+map_Kd textures/1/official/decoration/3814d191.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_283
+Ka 1.0 1.0 1.0
+Kd 0.9559733532482866 0.6375968739867731 0.4396571738310091
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_283_official_2375
+Ka 1.0 1.0 1.0
+Kd 0.9559733532482866 0.6375968739867731 0.4396571738310091
+map_Kd textures/2/official/color/3814d1110.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_4775
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/20926d255.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_4774
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/20932d255.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_131
+Ka 1.0 1.0 1.0
+Kd 0.3515325994898463 0.3515325994898463 0.3515325994898463
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_154_official_13219
+Ka 1.0 1.0 1.0
+Kd 0.20155625378383743 0.0006070539670588235 0.013702083043526807
+map_Kd textures/1/official/decoration/2447d3.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_23_official_13219
+Ka 1.0 1.0 1.0
+Kd 0.019382360952473074 0.0865004620280852 0.3864294337766795
+map_Kd textures/1/official/decoration/2447d3.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_13219
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/2447d3.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_13219
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/2447d3.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_154
+Ka 1.0 1.0 1.0
+Kd 0.20155625378383743 0.0006070539670588235 0.013702083043526807
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_330
+Ka 1.0 1.0 1.0
+Kd 0.21586050010324415 0.23074004851362045 0.08437621153575764
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_150
+Ka 1.0 1.0 1.0
+Kd 0.6583748172725346 0.6444796819634361 0.6104955708001716
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_5_official_226
+Ka 1.0 1.0 1.0
+Kd 0.6653872982754769 0.5028864580233624 0.20155625378383743
+map_Kd textures/2/official/color/3626d1348.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_3421
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/2/official/color/3626d169.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_329_official_1300
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.8962693533719567 0.6795424696265424
+map_Kd textures/1/official/decoration/3626d242.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_106_official_1300
+Ka 1.0 1.0 1.0
+Kd 0.913098651791473 0.20507873637973145 0.01680737574872402
+map_Kd textures/1/official/decoration/3626d242.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_141_official_1300
+Ka 1.0 1.0 1.0
+Kd 0.0015176349176470587 0.035601314869097636 0.007499032040460618
+map_Kd textures/1/official/decoration/3626d242.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_199_official_1300
+Ka 1.0 1.0 1.0
+Kd 0.07421356837213867 0.08228270712149792 0.09305896283800832
+map_Kd textures/1/official/decoration/3626d242.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_18_official_8806
+Ka 1.0 1.0 1.0
+Kd 0.6307571363387763 0.28314874041918053 0.13843161502267545
+map_Kd textures/2/official/color/3626d670.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_283_official_6459
+Ka 1.0 1.0 1.0
+Kd 0.9559733532482866 0.6375968739867731 0.4396571738310091
+map_Kd textures/1/official/decoration/3626d934.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_192
+Ka 1.0 1.0 1.0
+Kd 0.10461648408208657 0.026241221889696346 0.004391442035325718
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_312
+Ka 1.0 1.0 1.0
+Kd 0.4396571738310091 0.19461783043107173 0.06662593863608139
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl MB_5_official_3419
+Ka 1.0 1.0 1.0
+Kd 0.6653872982754769 0.5028864580233624 0.20155625378383743
+map_Kd textures/1/official/decoration/95678d1.png
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
