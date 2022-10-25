@@ -17,7 +17,7 @@ public class Waterscript : MonoBehaviour
     {
         if (other.gameObject.name == "Pirate")
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            SceneManager.LoadScene("Menu");
         }
     }
 }
